@@ -1,5 +1,5 @@
 {
-  "name": "ecommerce server",
+  "name": "ecommerce-server",
   "version": "1.0.0",
   "description": "Test Server for ecommerce",
   "proxy": "http://localhost:3000/1 ",
